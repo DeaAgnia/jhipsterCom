@@ -1,0 +1,22 @@
+{
+    "myCompanyApp": {
+        "karyawan" : {
+            "home": {
+                "title": "Karyawans",
+                "createLabel": "Create a new Karyawan",
+                "createOrEditLabel": "Create or edit a Karyawan"
+            },
+            "created": "A new Karyawan is created with identifier {{ param }}",
+            "updated": "A Karyawan is updated with identifier {{ param }}",
+            "deleted": "A Karyawan is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Karyawan {{ id }}?"
+            },
+            "detail": {
+                "title": "Karyawan"
+            },
+            "nama": "Nama",
+            "company": "Company"
+        }
+    }
+}
